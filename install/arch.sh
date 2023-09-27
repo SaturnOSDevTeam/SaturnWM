@@ -3,7 +3,7 @@
 sudo pacman -S --needed xorg xorg-xinit gcc make git freetype2
 git clone https://github.com/SaturnOSDevTeam/SaturnWM
 cd SaturnWM
-sudo cp saturn.desktop /usr/share/xsessions/ragnar.desktop
+sudo cp saturn.desktop /usr/share/xsessions/saturn.desktop
 sudo make saturn install
 echo "! INSTALLED"
 
