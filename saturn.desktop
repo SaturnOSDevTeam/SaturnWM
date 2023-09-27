@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Saturn
+Comment=Saturn Window Manager
+Exec=Saturn
+Icon=Saturn
+Type=XSession
